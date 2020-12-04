@@ -1,1 +1,3 @@
-# covid19helper
+# Covid-19 Helper
+
+With the introduction to the Novel COVID-19 in November 2019, this virus was brought to life in Wuhan, China and has spread throughout the world, It has gained the status of being a pandemic. The implementation of this application will allow its users to predict the cases for the next 2 to 3 days. Along with which it helps detect the hotspots district and state wise. Concepts like data analysis and prediction are put to use for this project. This project can be applicable for any country and can be used with any country’s COVID dataset which is issued officially by the country’s government.  It has been declared by WHO that the usage of SIR models for prediction and modelling the COVID-19 trend is better than any other model. 
